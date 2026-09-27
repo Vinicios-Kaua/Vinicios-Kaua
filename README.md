@@ -40,7 +40,7 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
   <tr>
     <td width="50%" valign="top">
       <h3><a href="[LINK-DO-REPO]">Kion Requisition</a></h3>
-      Sistema interno de gerenciamento de requisições e controle de baterias.
+      Sistema interno de gerenciamento de requisições e controle de baterias e gás.
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express"/>
@@ -49,7 +49,7 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
     </td>
     <td width="50%" valign="top">
       <h3><a href="[LINK-DO-REPO]">STKF</a></h3>
-      App para controle e gestão de fitas.
+      App para controle e gestão de fitas e chapas para marcenaria.
       <br><br>
       <img src="https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5"/>
       <img src="https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css3"/>
@@ -61,7 +61,7 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
   <tr>
     <td width="50%" valign="top">
       <h3><a href="[LINK-DO-REPO]">Sistema de Agendamento</a></h3>
-      Plataforma de agendamento com controle de horários (Eucatex).
+      Plataforma de agendamento para exames admissionais com controle de horários (Eucatex).
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express"/>
