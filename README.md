@@ -51,7 +51,9 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <h3><a href="[LINK-DO-REPO]">STKF</a></h3>
       App para controle e gestão de fitas.
       <br><br>
-      <img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-square&logo=flutter"/>
+      <img src="https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5"/>
+      <img src="https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css3"/>
+      <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
     </td>
@@ -71,7 +73,9 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       Sistema de gerenciamento de estoque para adega.
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
+      <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
+      <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
     </td>
   </tr>
 </table>
