@@ -95,7 +95,7 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
     <td valign="top" width="25%">
       <b>Frontend</b><br><br>
       <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/><br>
-      <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/><br>
+      <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><br>
       <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/><br>
       <img src="https://img.shields.io/badge/-Handlebars-0D1117?style=for-the-badge&logo=handlebarsdotjs&logoColor=f0772b"/>
@@ -116,7 +116,7 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <b>Ferramentas</b><br><br>
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/><br>
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/><br>
+      <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/><br>
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
     </td>
   </tr>
