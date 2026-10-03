@@ -47,7 +47,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
       <br><br>
-      <a href="https://vinicios-kaua.vercel.app/#projeto/kion-requisition">Ver case study →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://vinicios-kaua.vercel.app/#projeto/stkf">STKF</a></h3>
@@ -59,7 +58,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
       <br><br>
-      <a href="https://vinicios-kaua.vercel.app/#projeto/stkf">Ver case study →</a>
     </td>
   </tr>
   <tr>
@@ -72,7 +70,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <img src="https://img.shields.io/badge/-Handlebars-0D1117?style=flat-square&logo=handlebarsdotjs"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
       <br><br>
-      <a href="https://vinicios-kaua.vercel.app/#projeto/agendamento-eucatex">Ver case study →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://vinicios-kaua.vercel.app/#projeto/adega-smart">Adega Smart</a></h3>
@@ -83,7 +80,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
       <br><br>
-      <a href="https://vinicios-kaua.vercel.app/#projeto/adega-smart">Ver case study →</a>
     </td>
   </tr>
 </table>
