@@ -25,7 +25,6 @@
 
 <img src="https://img.shields.io/badge/Sobre_mim-4e95ff?style=for-the-badge" alt="Sobre mim"/>
 
-<br><br>
 
 Desenvolvedor Full Stack com experiência na criação de sistemas web para gestão e automação de processos internos — do banco de dados à hospedagem em ambiente cloud. Atualmente na **Kion Group**, atuando na montagem e instalação de sistemas eletrônicos em empilhadeiras, com forte interesse em migrar para uma posição de TI. Cursando **Engenharia de Software** e formado como **Técnico em Informática** pelo Senac SP.
 
@@ -38,7 +37,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 
 <img src="https://img.shields.io/badge/Projetos_em_destaque-4e95ff?style=for-the-badge" alt="Projetos em destaque"/>
 
-<br><br>
 
 <table>
   <tr>
@@ -102,7 +100,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 
 <img src="https://img.shields.io/badge/Stack-4e95ff?style=for-the-badge" alt="Stack"/>
 
-<br><br>
 
 <table>
   <tr>
@@ -140,7 +137,6 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 
 <img src="https://img.shields.io/badge/Estat%C3%ADsticas-4e95ff?style=for-the-badge" alt="Estatísticas"/>
 
-<br><br>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinicios-Kaua&show_icons=true&count_private=true&hide_border=true&title_color=4e95ff&icon_color=4e95ff&text_color=c9d1d9&bg_color=0d1117"/>
