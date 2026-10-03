@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="[SEU-LINK-DO-PORTFOLIO]" target="_blank">
+<a href="https://vinicios-kaua.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-4e95ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vinicioskaua" target="_blank">
@@ -15,7 +15,7 @@
 <a href="mailto:vini12kaua@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="[SEU-LINK-DO-WHATSAPP]" target="_blank">
+<a href="https://wa.me/5511970656550" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
@@ -39,16 +39,18 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[LINK-DO-REPO]">Kion Requisition</a></h3>
+      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/kion-requisition">Kion Requisition</a></h3>
       Sistema interno de gerenciamento de requisições e controle de baterias e gás.
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
+      <br><br>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/kion-requisition">Ver case study →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[LINK-DO-REPO]">STKF</a></h3>
+      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/stkf">STKF</a></h3>
       App para controle e gestão de fitas e chapas para marcenaria.
       <br><br>
       <img src="https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5"/>
@@ -56,33 +58,39 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
+      <br><br>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/stkf">Ver case study →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[LINK-DO-REPO]">Sistema de Agendamento</a></h3>
+      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/agendamento-eucatex">Sistema de Agendamento</a></h3>
       Plataforma de agendamento para exames admissionais com controle de horários (Eucatex).
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express"/>
       <img src="https://img.shields.io/badge/-Handlebars-0D1117?style=flat-square&logo=handlebarsdotjs"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
+      <br><br>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/agendamento-eucatex">Ver case study →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[LINK-DO-REPO]">Adega Smart</a></h3>
+      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/adega-smart">Adega Smart</a></h3>
       Sistema de gerenciamento de estoque para adega.
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
       <img src="https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express"/>
       <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql"/>
       <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript"/>
+      <br><br>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/adega-smart">Ver case study →</a>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-📁 Veja todos os projetos, telas e detalhes completos no meu **[portfólio]([SEU-LINK-DO-PORTFOLIO])**
+📁 Veja todos os projetos, telas e detalhes completos no meu **[portfólio](https://vinicios-kaua.vercel.app)**
 
 </div>
 
