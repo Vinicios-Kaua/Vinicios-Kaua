@@ -23,7 +23,9 @@
 
 <br>
 
-## 💻 Sobre mim
+<img src="https://img.shields.io/badge/Sobre_mim-4e95ff?style=for-the-badge" alt="Sobre mim"/>
+
+<br><br>
 
 Desenvolvedor Full Stack com experiência na criação de sistemas web para gestão e automação de processos internos — do banco de dados à hospedagem em ambiente cloud. Atualmente na **Kion Group**, atuando na montagem e instalação de sistemas eletrônicos em empilhadeiras, com forte interesse em migrar para uma posição de TI. Cursando **Engenharia de Software** e formado como **Técnico em Informática** pelo Senac SP.
 
@@ -34,12 +36,15 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 
 <br>
 
-## 🚀 Projetos em destaque
+<img src="https://img.shields.io/badge/Projetos_em_destaque-4e95ff?style=for-the-badge" alt="Projetos em destaque"/>
+
+<br><br>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/kion-requisition">Kion Requisition</a></h3>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/kion-requisition"><b>Requisição Kion</b></a>
+      <br>
       Sistema interno de gerenciamento de requisições e controle de baterias e gás.
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
@@ -49,7 +54,8 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <br><br>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/stkf">STKF</a></h3>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/stkf"><b>STKF</b></a>
+      <br>
       App para controle e gestão de fitas e chapas para marcenaria.
       <br><br>
       <img src="https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5"/>
@@ -62,7 +68,8 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/agendamento-eucatex">Sistema de Agendamento</a></h3>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/agendamento-eucatex"><b>Sistema de Agendamento</b></a>
+      <br>
       Plataforma de agendamento para exames admissionais com controle de horários (Eucatex).
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
@@ -72,7 +79,8 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
       <br><br>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://vinicios-kaua.vercel.app/#projeto/adega-smart">Adega Smart</a></h3>
+      <a href="https://vinicios-kaua.vercel.app/#projeto/adega-smart"><b>Adega Smart</b></a>
+      <br>
       Sistema de gerenciamento de estoque para adega.
       <br><br>
       <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js"/>
@@ -86,13 +94,15 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 
 <div align="center">
 
-📁 Veja todos os projetos, telas e detalhes completos no meu **[portfólio](https://vinicios-kaua.vercel.app)**
+📁 Veja todos os projetos, telas e detalhes completos no meu **[Portfólio](https://vinicios-kaua.vercel.app)**
 
 </div>
 
 <br>
 
-## 🛠️ Stack
+<img src="https://img.shields.io/badge/Stack-4e95ff?style=for-the-badge" alt="Stack"/>
+
+<br><br>
 
 <table>
   <tr>
@@ -128,7 +138,9 @@ Desenvolvedor Full Stack com experiência na criação de sistemas web para gest
 
 <br>
 
-## 📊 Estatísticas
+<img src="https://img.shields.io/badge/Estat%C3%ADsticas-4e95ff?style=for-the-badge" alt="Estatísticas"/>
+
+<br><br>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinicios-Kaua&show_icons=true&count_private=true&hide_border=true&title_color=4e95ff&icon_color=4e95ff&text_color=c9d1d9&bg_color=0d1117"/>
